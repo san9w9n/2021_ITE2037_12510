@@ -1,2 +1,4 @@
 # 2021_ITE2037_12510
-## 2021학년도 2학년 1학기 객체지향시스템설계 수업에서의 중간, 기말 미니 프로젝트
+## Object Oriented Programming, Spring 2021, Prof. Jae-hyuck Cha
+
+Mid-term project & Final project
